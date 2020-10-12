@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "GraphQL Mock Server - Updated!",
   "scripts": {
-    "tsc": "tsc --noEmit"
+    "tsc": "tsc --noEmit",
+    "version": "npx @pika/pack"
   },
   "@pika/pack": {
     "pipeline": [
