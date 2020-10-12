@@ -16,7 +16,7 @@
       [
         "@pika/plugin-simple-bin",
         {
-          "bin": "graphql-mock-server"
+          "bin": "graphql-mock-server-updated"
         }
       ],
       [
